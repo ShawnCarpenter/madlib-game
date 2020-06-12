@@ -1,2 +1,3 @@
-const text = document.getElementById('madlib');
+//const text = document.getElementById('madlib');
+
 //text.style.display = 'block';
